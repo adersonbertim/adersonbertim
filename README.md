@@ -8,5 +8,5 @@
 - ⚙  In the future i would to learn Python,Rust and maybe OCaml!
 - 📫 How to reach me: @aderson.bertim on Instagram || Work e-mail: (i dont have yet :/ )
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I wave started now learning JS! I use Neovim to code! 
+- ⚡ Fun fact: I have started now learning JS! I use Neovim to code! 
 - 🔧 Area: Back-end, maybe front-end ( i will to become 👊)!
