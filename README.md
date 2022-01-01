@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h3>Brazilian, 22yo see ya more below</h3>
+<h3>Brazilian, 22yo </h3>
 
 - 🔭 I’m currently worked in my career, developing my skills and myself! :)
 - 📚 I’m currently learning JavaScript!
