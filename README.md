@@ -29,7 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 
 
-## GitHub Status
+
 <div>
 <a href="https://github.com/adersonbertim">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adersonbertim&layout=compact&langs_count=7&theme=dracula"/>
