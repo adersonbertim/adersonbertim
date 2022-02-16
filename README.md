@@ -1,5 +1,5 @@
-# Hey my name is Aderson
-### Welcome to my GitHub Profile !!
+# 👋 Hey my name is Aderson
+## Welcome to my GitHub Profile !!
 
 - 🔭 I’m currently worked in my career, developing my skills and myself! :)
 - 📚 I’m currently learning JavaScript!
@@ -27,7 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-
 
 
 ## GitHub Status
