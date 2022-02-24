@@ -1,12 +1,12 @@
 # 👋 Hey my name is Aderson
 ## Welcome to my GitHub Profile !!
 
-- 🔭 I’m currently worked in my career, developing my skills and myself! :)
+- 🔭 I’m currently worked in my career and developing my skills! :)
 - 📚 I’m currently learning JavaScript!
-- ⚙  In the future i would to learn Rust and maybe Python.
+- ⚙  In the future i would to learn Rust.
 - 📫 How to reach me: @aderson.bertim on Instagram and Twitter is @aderson_bertim.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love play Chess and study that!
+- ⚡ Fun fact: I love play Chess !
 - 🔧 Area: Studying to become a full-stack dev 👊!
 
 ## Technologies i currently learning!
@@ -15,10 +15,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-
-
-## My Text Editor:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" height="60"/>
 
 ## My social media:
 <a href="https://instagram.com/aderson.bertim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
