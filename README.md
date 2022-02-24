@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently worked in my career and developing my skills! :)
 - 📚 I’m currently learning JavaScript!
-- 📫 How to reach me: @aderson.bertim on Instagram and Twitter is @aderson_bertim.
+- 📫 How to reach me: Twitter is @aderson_bertim.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love play Chess !
 - 🔧 Area: Studying to become a full-stack dev 👊!
