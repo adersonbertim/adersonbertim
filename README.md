@@ -2,7 +2,7 @@
 ## Welcome to my GitHub Profile !!
 
 - 🔭 I’m currently worked in my career and developing my skills! :)
-- 📚 I’m currently learning basics of Front-End and Shell Script!
+- 📚 I’m currently learning Linux and Shell Script!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love play Chess !
 - 🔧 Area: Studying to become a full-stack dev 👊!
