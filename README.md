@@ -1,11 +1,11 @@
-# 👋 Hey my name is Aderson
-## Welcome to my GitHub Profile !!
+# 👋 Heyy welcome to my GitHub Profile
+##  My name is Aderson!!
 
 - 🔭 I’m currently worked in my career and developing my skills! :)
 - 📚 I’m currently learning Linux and Shell Script!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love play Chess !
-- 🔧 Area: Studying to become a full-stack dev 👊!
+- 🔧 Area: Studying to become a DevOps and Back-End developer 👊!
 
 ## Technologies i currently learning!
 
