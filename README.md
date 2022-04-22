@@ -1,15 +1,15 @@
 # 👋 Heyy welcome to my GitHub Profile
 ##  My name is Aderson!!
 
-<img align="right" widht="100" height="160" src="https://media.giphy.com/media/l0Ex7SHlSIDcmYbBu/giphy.gif">
+<img align="right" widht="100" height="160" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
 ``` diff  
 < Hello people, it's is quick facts about me. 
 < I love play Chess, and this pull me back to study programming. 🥰
 
-+ 🤓 Now my focus is study basis languages like BASH and C.
-+ 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
-+ 👇👇 Check below more about what a i'm studying, workstation and media. 👇👇
+> 🤓 Now my focus is study basis languages like BASH and C.
+> 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
+> 👇Check below more about what a i'm studying, workstation and media.👇
 ```
 ## Technologies i currently learning!
 
