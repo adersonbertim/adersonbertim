@@ -9,7 +9,7 @@
 
 > 🤓 Now my focus is study basis languages like BASH and C.
 > 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
-> 👇Check below more about my.👇
+> 👇Check below more about me.👇
 ```
 ## Technologies i currently learning!
 
