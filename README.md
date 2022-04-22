@@ -5,9 +5,9 @@
 < Hello people, it's is quick facts about me. 
 < I love play Chess, and this pull me back to study programming. 🥰
 
-+  🤓 Now my focus is study "basic" languages like BASH and C. Of course this not the basic like simple but the basis.
-+  👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
-+  👇👇 Check below more about what a i'm studying, workstation and media. 👇👇
++ 🤓 Now my focus is study "basic" languages like BASH and C. Of course this not the basic like simple but the basis.
++ 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
++ 👇👇 Check below more about what a i'm studying, workstation and media. 👇👇
 ```
 ## Technologies i currently learning!
 
