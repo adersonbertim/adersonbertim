@@ -10,6 +10,7 @@
 > I love play Chess, and this pull me back to study programming. 🥰
 > 🤓 Now my focus is study basis languages like BASH and C.
 > 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
+> 😂 Fun fact, i love penguins 🐧🐧
 > 👇Check below more about me.👇
 ```
 ## 🤓 Technologies i'm learning!
