@@ -1,14 +1,12 @@
 # 👋 Heyy welcome to my GitHub Profile
 
-<img align="right" widht="100" height="160" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
+<img align="right" widht="100" height="150" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
 ``` diff  
 < What'sup, my name is Aderson.
 < Here you found, little facts about me:
 
-
-> I use Neovim and Alacritty Terminal.
-> OS: Arch Linux this awesome. 🥰
+> OS: Arch Linux | Terminal Alacritty | Neovim User
 > 🤓 Now my focus is study basis languages like BASH and C.
 > 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
 > 😂 Fun fact, i love penguins 🐧🐧
