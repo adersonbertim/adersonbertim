@@ -6,10 +6,10 @@
 < What'sup, my name is Aderson.
 < Here you found, little facts about me:
 
-> OS: Arch Linux | Terminal Alacritty | Neovim User
-> 🤓 Now my focus is study basis languages like BASH and C.
-> 👨‍💻 I currently work on my Pomodoro Project in bash. 👨‍💻
-> 😂 Fun fact, i love penguins 🐧🐧
+> Neovim User
+> 🤓 Now my focus is study BASH and C.
+> 👨‍💻 I currently work on my Shell Games Project writen in bash. 👨‍💻
+> 😂 Fun fact, i love penguins 🐧🐧 and play chess sometimes
 > 👇Check below my social medias.👇
 ```
 
