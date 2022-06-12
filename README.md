@@ -1,24 +1,34 @@
-# 👋 Heyy welcome to my GitHub Profile
+  <h1 align="center">Hi 👋, I'm Aderson Bertim</h1>
+<h3 align="center">A passionate back-end developer and medium-low level languages</h3>
 
-<img align="right" widht="100" height="150" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
+<img align="right" widht="150" height="190" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
-``` diff  
-< What'sup, my name is Aderson.
-< Here you found, little facts about me:
+- 🔭 I’m currently working on [Shell-Games](https://github.com/adersonbertim/Shell-Games)
 
-> Neovim User
-> 🤓 Now my focus is study BASH and C.
-> 👨‍💻 I currently work on my Shell Games Project writen in bash. 👨‍💻
-> 😂 Fun fact, i love penguins 🐧🐧 and play chess sometimes
-> 👇Check below my social medias.👇
-```
+- 🌱 I’m currently learning **Shell-Script, C, Assembly**
 
-## 📸 Social Medias:
-<a href="https://instagram.com/aderson.bertim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://twitter.com/aderson_bertim" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> <a href="https://dev.to/adersonbertim" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+- 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
-## 📖 GitHub Status 
+- 📫 How to reach me **adersonbertim@gmail.com**
+
+- ⚡ Fun fact **I love play chess, math and Penguins 🐧🐧**
+
+
+<h2 align="left">☀️ Connect with me:</h2>
+<p align="left">
+<a href="https://dev.to/adersonbertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adersonbertim" height="30" width="40" /></a>
+<a href="https://twitter.com/aderson_bertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aderson_bertim" height="30" width="40" /></a>
+<a href="https://instagram.com/aderson.bertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aderson.bertim" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">📖 GitHub Status</h2> 
 <div>
   <a href="https://github.com/adersonbertim">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adersonbertim&layout=compact&langs_count=7&theme=dracula"/> 
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=adersonbertim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=adersonbertim&theme=dracula" alt="adersonbertim" />
 </div>
+
+
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=adersonbertim&label=Profile%20views&color=0e75b6&style=flat" alt="adersonbertim" /> </a>
+  
