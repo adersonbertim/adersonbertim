@@ -3,7 +3,7 @@
 
 <img align="right" widht="150" height="190" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
-- 🔭 I’m currently working on [Shell-Games](https://github.com/adersonbertim/Shell-Games)
+- 🔭 I’m currently working on [Bash Scripts](https://github.com/adersonbertim/bashcripts) with some fun scripts.
 
 - 🌱 I’m currently learning **Shell-Script, C, Assembly**
 
