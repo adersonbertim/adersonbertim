@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Bash Scripts](https://github.com/adersonbertim/bashscripts) with some fun scripts.
 
-- 🌱 I’m currently learning **Shell-Script, C, Assembly**
+- 🌱 I’m currently learning **Shell-Script, Linux System, C, Assembly**
 
 - 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
