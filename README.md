@@ -9,7 +9,7 @@
 
 - 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
-- 📫 How to reach me **adersonbertim@gmail.com**
+- 📫 How to reach me **aderson28.dev@gmail.com**
 
 - ⚡ Fun fact **I love play chess, math and Penguins 🐧🐧**
 
