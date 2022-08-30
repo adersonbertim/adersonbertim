@@ -21,14 +21,4 @@
 <a href="https://instagram.com/aderson.bertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aderson.bertim" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">📖 GitHub Status</h2> 
-<div>
-  <a href="https://github.com/adersonbertim">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adersonbertim&layout=compact&langs_count=7&theme=dracula"/> 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adersonbertim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=adersonbertim&theme=dracula" alt="adersonbertim" />
-</div>
-
-
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=adersonbertim&label=Profile%20views&color=0e75b6&style=flat" alt="adersonbertim" /> </a>
-  
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=adersonbertim&label=Profile%20views&color=0e75b6&style=flat" alt="adersonbertim" /></a>
