@@ -3,7 +3,7 @@
 
 <img align="right" widht="150" height="190" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
-- 🔭 I’m currently working on [Linux Journey](https://github.com/adersonbertim/linux-journey) my personal note repo.
+- 🔭 I’m currently working on [New Project is comming...]().
 
 - 🌱 I’m currently learning **Shell-Script, Linux System, C, Assembly**
 
