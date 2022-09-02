@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [New Project is comming...]().
 
-- 🌱 I’m currently learning **Shell-Script, Linux System, C, Assembly**
+- 🌱 I’m currently learning **C**
 
 - 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
