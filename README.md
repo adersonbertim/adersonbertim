@@ -21,4 +21,6 @@
 <a href="https://instagram.com/aderson.bertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aderson.bertim" height="30" width="40" /></a>
 </p>
 
+![Aderson GitHub stats](https://github-readme-stats.vercel.app/api?username=adersonbertim&show_icons=true&theme=tokyonight)
+
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=adersonbertim&label=Profile%20views&color=0e75b6&style=flat" alt="adersonbertim" /></a>
