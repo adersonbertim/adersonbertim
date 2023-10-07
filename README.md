@@ -3,9 +3,9 @@
 
 <img align="right" widht="150" height="190" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
-- 🔭 I’m currently working on [New Project is comming...]().
+- 🔭 I’m currently working on personal projects
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Python 🐍**
 
 - 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
@@ -22,7 +22,4 @@
 </p>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=adersonbertim&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adersonbertim&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
-</div>
 
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=adersonbertim&label=Profile%20views&color=0e75b6&style=flat" alt="adersonbertim" /></a>
