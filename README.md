@@ -20,6 +20,5 @@
 <a href="https://twitter.com/aderson_bertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aderson_bertim" height="30" width="40" /></a>
 <a href="https://instagram.com/aderson.bertim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aderson.bertim" height="30" width="40" /></a>
 </p>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=adersonbertim&show_icons=true&theme=tokyonight" height="150" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adersonbertim&theme=tokyonight)
