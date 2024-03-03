@@ -3,9 +3,9 @@
 
 <img align="right" widht="150" height="190" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
-- 🔭 I’m currently working on personal projects
+- 🔭 I’m currently working on personal projects and developing my skills!
 
-- 🌱 I’m currently learning **Python 🐍**
+- 🌱 I’m currently learning **Python 🐍 C, C++**
 
 - 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
