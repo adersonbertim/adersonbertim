@@ -3,10 +3,10 @@
 
 <img align="right" widht="150" height="190" src="https://media.giphy.com/media/123GivAQB7k0s8/giphy.gif">
 
+- 🌱 I’m currently learning <img widht="30" height="30" src= "https://img.icons8.com/?size=100&id=40670&format=png&color=000000" >
+
 - 🔭 I’m currently working on personal projects and developing my skills!
-
-- 🌱 I’m currently learning **Python 🐍 C, C++**
-
+  
 - 📝 I will write articles on [https://dev.to/adersonbertim](https://dev.to/adersonbertim)
 
 - 📫 How to reach me **aderson28.dev@gmail.com**
