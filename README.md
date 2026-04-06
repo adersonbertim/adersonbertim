@@ -1,7 +1,18 @@
-  <h1 align="center">Hi 👋, I'm Aderson Bertim</h1>
+# 💫 About Me:
+Sou estudante de Sistemas de Informação no Instituto Federal Farroupilha (IFFAR), com foco no desenvolvimento backend. Atualmente, estou aprofundando meus conhecimentos em Java e no ecossistema Spring Boot, buscando maior domínio na construção de APIs e sistemas robustos. Tenho como objetivo evoluir constantemente por meio da prática, desenvolvendo projetos acadêmicos e participando de iniciativas de pesquisa e extensão, como a experiência no projeto Bookline.<br><br>Minha stack atual inclui Java, Spring Boot, MySQL, PostgreSQL, Git, GitHub e Docker no backend, além de Angular, TypeScript e SCSS no frontend. No momento, estou direcionando meus estudos para conceitos mais avançados da linguagem Java e para o uso mais aprofundado do framework Spring Boot.<br><br>Atualmente, participo do desenvolvimento do projeto TeachHub, que possui visibilidade restrita, assim como o projeto Bookline da faculdade, também limitado devido à sensibilidade dos dados envolvidos. Paralelamente, estou construindo novos projetos com foco em backend e desenvolvimento de APIs.<br><br>Meus principais objetivos são consolidar e expandir meus conhecimentos em desenvolvimento backend, além de aprender novas linguagens, como Rust e Ruby, ampliando minha visão e capacidade técnica.<br><br>Contato: aderson28.dev@gmail.com
 
-- I'm student of Sistemas de Informação on Insitituto Federal Farroupilha
-- Future dev back-end
-- Love chess, math and physics
-- Add me on chess.com aderson28 
 
+## 🌐 Socials:
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aderson28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aderson28.dev@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adersonbertim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adersonbertim&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adersonbertim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
